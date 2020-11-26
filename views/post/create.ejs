@@ -1,0 +1,7 @@
+<%- include('../partials/header'); %>
+<h1 class="mb-3"><%= title %></h1>
+
+<form action="/post/create" method="POST">
+    <%- include('./_form_field'); %>
+</form>
+<%- include('../partials/footer'); %>
