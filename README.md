@@ -1,2 +1,3 @@
 # NodeJS-Express-App
-test
+This is my first nodejs app with expressjs
+It supports typescript
